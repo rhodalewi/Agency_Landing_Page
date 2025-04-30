@@ -1,5 +1,5 @@
 export const HeroData = {
-    logo: "/public/images/logo.svg",
+    logo: "/images/logo.svg",
 
     links: [
         {
@@ -30,7 +30,7 @@ export const HeroData = {
 
     content: {
             text: "We are creatives",
-            arrowDown: "/public/images/icon-arrow-down.svg"
+            arrowDown: "/images/icon-arrow-down.svg"
         }
     
 };
@@ -49,8 +49,8 @@ export const ServiceData = {
         {
             id: "card2",
             type: "image",
-            bgDesktopImg: "/public/images/desktop/image-transform.jpg",
-            bgMobileImg: "/public/images/mobile/image-transform.jpg" 
+            bgDesktopImg: "/images/desktop/image-transform.jpg",
+            bgMobileImg: "/images/mobile/image-transform.jpg" 
         },
     ],
 
@@ -58,8 +58,8 @@ export const ServiceData = {
         {
             id: "card3",
             type: "image",
-            bgDesktopImg: "/public/images/desktop/image-stand-out.jpg",
-            bgMobileImg: "/public/images/mobile/image-stand-out.jpg"
+            bgDesktopImg: "/images/desktop/image-stand-out.jpg",
+            bgMobileImg: "/images/mobile/image-stand-out.jpg"
             
         },
 
@@ -79,8 +79,8 @@ export const ServiceData = {
             type: "text",
             heading: "Graphic Design",
             paragraph: "Great design makes you memorable. We deliver artwork that underscores your brand message and captures potential clients’ attention.",
-            bgDesktopImg: "/public/images/desktop/image-graphic-design.jpg",
-            bgMobileImg: "/public/images/mobile/image-graphic-design.jpg",
+            bgDesktopImg: "/images/desktop/image-graphic-design.jpg",
+            bgMobileImg: "/images/mobile/image-graphic-design.jpg",
             textColor: "hsl(167, 40%, 24%)"
         },
 
@@ -89,8 +89,8 @@ export const ServiceData = {
             type: "text",
             heading: "Photography",
             paragraph: "Increase your credibility by getting the most stunning, high-quality photos that improve your business image. ",
-            bgDesktopImg: "/public/images/desktop/image-photography.jpg",
-            bgMobileImg: "/public/images/mobile/image-photography.jpg",      
+            bgDesktopImg: "/images/desktop/image-photography.jpg",
+            bgMobileImg: "/images/mobile/image-photography.jpg",      
             textColor: "hsl(198, 62.10%, 25.90%)"
         }
     ]
@@ -102,7 +102,7 @@ export const TestimonialData = {
     clients: [
         {
             id: "client1",
-            imgUrl: "/public/images/image-emily.jpg",
+            imgUrl: "/images/image-emily.jpg",
             alt: "Picture",
             text: "We put our trust in Sunnyside and they delivered, making sure our needs were met and deadlines were always hit.",
             name: "Emily R.",
@@ -111,7 +111,7 @@ export const TestimonialData = {
 
         {
             id: "client2",
-            imgUrl: "/public/images/image-thomas.jpg",
+            imgUrl: "/images/image-thomas.jpg",
             alt: "Picture",
             text: "Sunnyside’s enthusiasm coupled with their keen interest in our brand’s success made it a satisfying and enjoyable experience. ",
             name: "Thomas S.",
@@ -120,7 +120,7 @@ export const TestimonialData = {
 
         {
             id: "client3",
-            imgUrl: "/public/images/image-jennie.jpg",
+            imgUrl: "/images/image-jennie.jpg",
             alt: "Picture",
             text: "Incredible end result! Our sales increased over 400% when we worked with Sunnyside. Highly recommended!",
             name: "Jennie F.",
@@ -132,29 +132,29 @@ export const TestimonialData = {
 export const ProjectsData = [
     {
         id: "img1",
-        desktopImg: "/public/images/desktop/image-gallery-milkbottles.jpg",
-        mobileImg: "/public/images/mobile/image-gallery-milkbottles.jpg",
+        desktopImg: "/images/desktop/image-gallery-milkbottles.jpg",
+        mobileImg: "/images/mobile/image-gallery-milkbottles.jpg",
         alt: "Milk Bottles"
     },
 
     {
         id: "img2",
-        desktopImg: "/public/images/desktop/image-gallery-orange.jpg",
-        mobileImg: "/public/images/mobile/image-gallery-orange.jpg",
+        desktopImg: "/images/desktop/image-gallery-orange.jpg",
+        mobileImg: "/images/mobile/image-gallery-orange.jpg",
         alt: "Orange"
     },
 
     {
         id: "img3",
-        desktopImg: "/public/images/desktop/image-gallery-cone.jpg",
-        mobileImg: "/public/images/mobile/image-gallery-cone.jpg",
+        desktopImg: "/images/desktop/image-gallery-cone.jpg",
+        mobileImg: "/images/mobile/image-gallery-cone.jpg",
         alt: "Cone"
     },
 
     {
         id: "img4",
-        desktopImg: "/public/images/desktop/image-gallery-sugarcubes.jpg",
-        mobileImg: "/public/images/mobile/image-gallery-sugar-cubes.jpg",
+        desktopImg: "/images/desktop/image-gallery-sugarcubes.jpg",
+        mobileImg: "/images/mobile/image-gallery-sugar-cubes.jpg",
         alt: "Sugar cubes"
     }
 ];
@@ -162,28 +162,28 @@ export const ProjectsData = [
 export const FooterData = [
     {
         id: "facebook",
-        socialIcon: "/public/images/icon-facebook.svg",
+        socialIcon: "/images/icon-facebook.svg",
         alt: "Facebook",
         href: "#"
     },
 
     {
         id: "instagram",
-        socialIcon: "/public/images/icon-instagram.svg",
+        socialIcon: "/images/icon-instagram.svg",
         alt: "Instagram",
         href: "#"
     },
 
     {
         id: "twitter",
-        socialIcon: "/public/images/icon-twitter.svg",
+        socialIcon: "/images/icon-twitter.svg",
         alt: "Twitter",
         href: "#"
     },
 
     {
         id: "pinterest",
-        socialIcon: "/public/images/icon-pinterest.svg",
+        socialIcon: "/images/icon-pinterest.svg",
         alt: "Pinterest",
         href: "#"
     },

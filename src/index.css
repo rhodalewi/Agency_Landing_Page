@@ -17,7 +17,7 @@ body {
 
 .HeroPage {
   height: 100vh;
-  background-image: url(../public/images/desktop/image-header.jpg);
+  background-image: url(/images/desktop/image-header.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -313,7 +313,7 @@ nav ul li:last-child:hover {
 @media (max-width: 768px) {
     .HeroPage {
       padding: 3rem 1.25rem;
-      background-image: url(../public/images/mobile/image-header.jpg);
+      background-image: url(/images/mobile/image-header.jpg);
       height: 62vh;
     }
   
