@@ -27,8 +27,8 @@ This project is a fully responsive landing page built with React and pure CSS. I
 
 ### Links
 
-- Solution URL: [GitHub Repository](https://github.com/your-username/sunnyside-agency-landing-page)
-- Live Site URL: [Live Preview](https://your-username.github.io/sunnyside-agency-landing-page/)
+- Solution URL: [GitHub Repository](https://github.com/rhodalewi/Agency_Landing_Page)
+- Live Site URL: [Live Preview](https://agency-landing-page-nine.vercel.app/)
 
 ## Installation
 
@@ -53,7 +53,7 @@ To run this project locally:
 - CSS custom properties
 - Flexbox & Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) – JS library
+- [React](https://https://react.dev/) – JS library
 - [Vite](https://vitejs.dev/) – Fast React setup
 - CSS Media Queries
 - `srcSet` and `useEffect` for image optimization
@@ -66,11 +66,11 @@ To run this project locally:
 - Improved my knowledge of responsive layout with pure CSS and Grid
 - How to use `.filter()` to dynamically remove items from arrays used in components (e.g., removing the Contact link from the footer)
   
-```js
+  ```js
 const footerLinks = navLinks.filter(link => link !== 'Contact');
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/rhodalewi);
+- Frontend Mentor - [@rhodalewi](https://www.frontendmentor.io/profile/rhodalewi);
 
 ## Acknowledgments
 - Thanks to Frontend Mentor for the challenge

@@ -16,7 +16,7 @@ function Hero() {
                     </ul>
                 </nav>
 
-                <img src="/public/images/icon-hamburger.svg" alt="Menu" className='hamburger' onClick={() => setToggleNav(!toggleNav)} />
+                <img src="/images/icon-hamburger.svg" alt="Menu" className='hamburger' onClick={() => setToggleNav(!toggleNav)} />
             </header>
 
             <div className="heroContent">
